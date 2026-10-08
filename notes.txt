@@ -1,0 +1,11 @@
+Chapter 1:
+    Outlier - data point that differs significantly from the other comparable data,
+              graphs can be useful visiualization tools to help spot outliers, however
+              they can be misleading
+
+Chapter 2:
+    Probability - the likelihood that an event will occur (a number between
+                  0 - won't happen, 1 - will happen)
+
+Chapter 3:
+Chapter 4:
